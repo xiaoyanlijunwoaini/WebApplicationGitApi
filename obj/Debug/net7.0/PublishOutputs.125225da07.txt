@@ -1,0 +1,12 @@
+D:\project\WebApp\WebApplicationGitApi\WebApplicationGitApi.exe
+D:\project\WebApp\WebApplicationGitApi\appsettings.Development.json
+D:\project\WebApp\WebApplicationGitApi\appsettings.json
+D:\project\WebApp\WebApplicationGitApi\WebApplicationGitApi.dll
+D:\project\WebApp\WebApplicationGitApi\WebApplicationGitApi.deps.json
+D:\project\WebApp\WebApplicationGitApi\WebApplicationGitApi.runtimeconfig.json
+D:\project\WebApp\WebApplicationGitApi\WebApplicationGitApi.pdb
+D:\project\WebApp\WebApplicationGitApi\Microsoft.AspNetCore.OpenApi.dll
+D:\project\WebApp\WebApplicationGitApi\Microsoft.OpenApi.dll
+D:\project\WebApp\WebApplicationGitApi\Swashbuckle.AspNetCore.Swagger.dll
+D:\project\WebApp\WebApplicationGitApi\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project\WebApp\WebApplicationGitApi\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -460,7 +460,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lijun\\.nuget\\packages\\": {}
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -468,11 +468,11 @@
       "projectUniqueName": "D:\\project\\netCore\\WebApplicationGitApi\\WebApplicationGitApi\\WebApplicationGitApi.csproj",
       "projectName": "WebApplicationGitApi",
       "projectPath": "D:\\project\\netCore\\WebApplicationGitApi\\WebApplicationGitApi\\WebApplicationGitApi.csproj",
-      "packagesPath": "C:\\Users\\lijun\\.nuget\\packages\\",
+      "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
       "outputPath": "D:\\project\\netCore\\WebApplicationGitApi\\WebApplicationGitApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lijun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
