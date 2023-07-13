@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K/yznFZ2lTiVGAM+lBU4tOb+7zvmq4n6EXCjFpIDUKwKQZzoidNY2KT6KhyDXvuf4CLDKPXZpJtGhi91Kqpntw==",
+  "dgSpecHash": "qlC1ziKKyb4HziljqCf0FeJXyR2PpnjbviiQBICGjozlaZz9Y3t8Ar2/BBz9NDJZzH4jhem5ezvAtT5+lFqctg==",
   "success": true,
-  "projectFilePath": "D:\\project\\netCore\\WebApplicationGitApi\\WebApplicationGitApi.csproj",
+  "projectFilePath": "D:\\project\\netCore\\WebApplicationGitApi\\WebApplicationGitApi\\WebApplicationGitApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lijun\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\lijun\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

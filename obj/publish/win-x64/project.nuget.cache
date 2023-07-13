@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "OI0NB25tFMBxbyZRxuNYZn3kmYeeehPVEsp4381yQFzdm5zxqujfDH5JRcIF7sv4z22+of3IJ2eia7hSNBsu1A==",
+  "success": true,
+  "projectFilePath": "D:\\project\\netCore\\WebApplicationGitApi\\WebApplicationGitApi\\WebApplicationGitApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lijun\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "C:\\Users\\lijun\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\lijun\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\lijun\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\lijun\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\lijun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\lijun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\lijun\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.8\\microsoft.netcore.app.runtime.win-x64.7.0.8.nupkg.sha512",
+    "C:\\Users\\lijun\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.8.nupkg.sha512",
+    "C:\\Users\\lijun\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.8\\microsoft.aspnetcore.app.runtime.win-x64.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
