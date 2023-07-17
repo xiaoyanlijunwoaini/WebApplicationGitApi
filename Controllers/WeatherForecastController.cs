@@ -25,7 +25,7 @@ namespace WebApplicationGitApi.Controllers
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
                 TemperatureC = Random.Shared.Next(-20, 55),
-                Summary = "lijun"//Summaries[Random.Shared.Next(Summaries.Length)]
+                Summary = "lijddddddun"//Summaries[Random.Shared.Next(Summaries.Length)]
             })
             .ToArray();
         }
