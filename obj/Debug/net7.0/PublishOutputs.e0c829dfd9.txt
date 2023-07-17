@@ -1,0 +1,12 @@
+D:\project\netCore\WebApplicationGitApi\WebApplicationGitApi\bin\Debug\net7.0\publish\WebApplicationGitApi.exe
+D:\project\netCore\WebApplicationGitApi\WebApplicationGitApi\bin\Debug\net7.0\publish\appsettings.Development.json
+D:\project\netCore\WebApplicationGitApi\WebApplicationGitApi\bin\Debug\net7.0\publish\appsettings.json
+D:\project\netCore\WebApplicationGitApi\WebApplicationGitApi\bin\Debug\net7.0\publish\WebApplicationGitApi.dll
+D:\project\netCore\WebApplicationGitApi\WebApplicationGitApi\bin\Debug\net7.0\publish\WebApplicationGitApi.deps.json
+D:\project\netCore\WebApplicationGitApi\WebApplicationGitApi\bin\Debug\net7.0\publish\WebApplicationGitApi.runtimeconfig.json
+D:\project\netCore\WebApplicationGitApi\WebApplicationGitApi\bin\Debug\net7.0\publish\WebApplicationGitApi.pdb
+D:\project\netCore\WebApplicationGitApi\WebApplicationGitApi\bin\Debug\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\project\netCore\WebApplicationGitApi\WebApplicationGitApi\bin\Debug\net7.0\publish\Microsoft.OpenApi.dll
+D:\project\netCore\WebApplicationGitApi\WebApplicationGitApi\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\project\netCore\WebApplicationGitApi\WebApplicationGitApi\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project\netCore\WebApplicationGitApi\WebApplicationGitApi\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
